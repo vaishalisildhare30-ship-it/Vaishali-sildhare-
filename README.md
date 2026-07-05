@@ -4,9 +4,8 @@
 
 ### Skills
 - Python
-- SQL
-- Power BI
-- Excel
+- HTML css JavaScript 
+- artificial intelligence 
 - Machine Learning
 
 ### About Me
